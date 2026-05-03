@@ -145,8 +145,7 @@ The Logistic Regression model performed best, achieving the highest ROC-AUC amon
 
 ROC-AUC = 0.616
 
-Indicates moderate predictive power — the model performs better than random classification but still has room for improvement.
-
+The model achieved predictive performance above random classification, providing useful probability estimates for portfolio credit risk assessment and expected loss modeling.
 ## Probability Calibration
 
 Brier Score = 0.2376
@@ -277,7 +276,7 @@ LICENSE
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/credit-risk-model-backtesting-basel.git
+git clone https://github.com/MoMKhan1/credit-risk-model-backtesting-basel.git
 cd credit-risk-model-backtesting-basel
 ```
 
