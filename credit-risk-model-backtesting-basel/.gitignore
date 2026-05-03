@@ -1,6 +1,11 @@
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
 
+# Ignore generated data and models
+data/
+models/
+figures/
+results/
 
 # Python cache
 __pycache__/

@@ -1,0 +1,7 @@
+data/
+models/
+figures/
+results/
+.git
+.ipynb_checkpoints
+__pycache__

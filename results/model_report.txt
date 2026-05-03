@@ -1,0 +1,16 @@
+CREDIT RISK MODELING REPORT
+
+Dataset Size: 50000 observations
+Best PD Model: LogisticRegression
+ROC-AUC: 0.6162
+Brier Score: 0.2376
+Hit Rate: 0.5872
+Expected Portfolio Loss: 1478.21
+Stress Portfolio Loss: 17502970.02
+Portfolio VaR (99%): 17845814.76
+95% Confidence Interval for Expected Loss: [1466.16, 1490.40]
+
+Outputs Generated:
+• Model files in /models
+• Figures in /figures
+• Metrics in /results
