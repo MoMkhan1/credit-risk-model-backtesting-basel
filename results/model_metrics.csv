@@ -1,10 +1,3 @@
-Metric,Value
-Best Model,LogisticRegression
-ROC-AUC,0.6162264560996812
-Brier Score,0.23759525610810714
-Hit Rate,0.5872
-Expected Loss,1478.206484370957
-Stress Loss,17502970.019291107
-Portfolio VaR,17845814.761365835
-CI Lower,1466.1625701684973
-CI Upper,1490.4043406285966
+version https://git-lfs.github.com/spec/v1
+oid sha256:243e8e3791e1512cd2be2f63412a5fde0681769cbab082548da2b502047ce54e
+size 280
