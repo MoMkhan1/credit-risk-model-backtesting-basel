@@ -1,7 +1,50 @@
-# Ignore Jupyter checkpoints
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# -------------------------
+# Jupyter Notebook
+# -------------------------
 .ipynb_checkpoints/
 
+# -------------------------
+# Large data files (VERY IMPORTANT)
+# -------------------------
+data/
+datasets/
 
-# Python cache
-__pycache__/
-*.pyc
+# -------------------------
+# Models (VERY IMPORTANT for ML projects)
+# -------------------------
+models/
+scripts/models/
+*.pkl
+*.joblib
+
+# -------------------------
+# Outputs / results
+# -------------------------
+figures/
+results/
+outputs/
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
+
+# -------------------------
+# OS files
+# -------------------------
+.DS_Store
+Thumbs.db
